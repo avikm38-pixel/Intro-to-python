@@ -1,6 +1,6 @@
 EMP = {
     "E1": {
-        "Name": "Sarthak Sen",
+        "Name": "Avik Mondal",
         "Designation": "Officer",
         "Department": "Software Engineering",
         "Salary": 80000
@@ -18,7 +18,7 @@ EMP = {
         "Salary": 22000
     },
     "E4": {
-        "Name": "Avik Mondal",
+        "Name": "sarthak sen",
         "Designation": "Officer",
         "Department": "Machine Learning",
         "Salary": 80000
